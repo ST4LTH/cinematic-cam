@@ -1,5 +1,5 @@
-# mercy-ts-boilerplate
-Typescript boilerplate for FiveM.
+# Cinematic cam 
+Cinematic cam made in typescript for FiveM.
 
 ## Installation
 `npm i --force`
